@@ -14,6 +14,8 @@
 		9D7D4AD72C3EC85D002A00D0 /* ArtBookProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9D7D4AD52C3EC85D002A00D0 /* ArtBookProject.xcdatamodeld */; };
 		9D7D4AD92C3EC85F002A00D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D7D4AD82C3EC85F002A00D0 /* Assets.xcassets */; };
 		9D7D4ADC2C3EC85F002A00D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D7D4ADA2C3EC85F002A00D0 /* LaunchScreen.storyboard */; };
+		9D7D4AE42C3ED461002A00D0 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7D4AE32C3ED461002A00D0 /* DetailsVC.swift */; };
+		9D810EA12C5D30CE00A820F2 /* selecet image .png in Resources */ = {isa = PBXBuildFile; fileRef = 9D810EA02C5D30CE00A820F2 /* selecet image .png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9D7D4AD82C3EC85F002A00D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D7D4ADB2C3EC85F002A00D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D7D4ADD2C3EC85F002A00D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D7D4AE32C3ED461002A00D0 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
+		9D810EA02C5D30CE00A820F2 /* selecet image .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "selecet image .png"; path = "../../foto /selecet image .png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,7 @@
 		9D7D4AC02C3EC85D002A00D0 = {
 			isa = PBXGroup;
 			children = (
+				9D810EA02C5D30CE00A820F2 /* selecet image .png */,
 				9D7D4ACB2C3EC85D002A00D0 /* ArtBookProject */,
 				9D7D4ACA2C3EC85D002A00D0 /* Products */,
 			);
@@ -61,6 +66,7 @@
 				9D7D4ACC2C3EC85D002A00D0 /* AppDelegate.swift */,
 				9D7D4ACE2C3EC85D002A00D0 /* SceneDelegate.swift */,
 				9D7D4AD02C3EC85D002A00D0 /* ViewController.swift */,
+				9D7D4AE32C3ED461002A00D0 /* DetailsVC.swift */,
 				9D7D4AD22C3EC85D002A00D0 /* Main.storyboard */,
 				9D7D4AD82C3EC85F002A00D0 /* Assets.xcassets */,
 				9D7D4ADA2C3EC85F002A00D0 /* LaunchScreen.storyboard */,
@@ -131,6 +137,7 @@
 				9D7D4ADC2C3EC85F002A00D0 /* LaunchScreen.storyboard in Resources */,
 				9D7D4AD92C3EC85F002A00D0 /* Assets.xcassets in Resources */,
 				9D7D4AD42C3EC85D002A00D0 /* Main.storyboard in Resources */,
+				9D810EA12C5D30CE00A820F2 /* selecet image .png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,6 +152,7 @@
 				9D7D4AD12C3EC85D002A00D0 /* ViewController.swift in Sources */,
 				9D7D4ACD2C3EC85D002A00D0 /* AppDelegate.swift in Sources */,
 				9D7D4ACF2C3EC85D002A00D0 /* SceneDelegate.swift in Sources */,
+				9D7D4AE42C3ED461002A00D0 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
