@@ -3,6 +3,7 @@
 
 This project is an iOS app that allows users to manage a collection of paintings. Users can add, view, and delete paintings from a list stored using Core Data.
 
+
 # Features
 
 View List of Paintings: Paintings are displayed in a UITableView.
