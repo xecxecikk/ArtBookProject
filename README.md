@@ -1,14 +1,17 @@
+
 # ArtBookProjects
 
 This project is an iOS app that allows users to manage a collection of paintings. Users can add, view, and delete paintings from a list stored using Core Data.
 
 # Features
 
-.View List of Paintings: Paintings are displayed in a UITableView.
+View List of Paintings: Paintings are displayed in a UITableView.
 Add New Paintings: Users can navigate to a details screen to add new paintings.
 Delete Paintings: Swipe-to-delete functionality is available to remove paintings from the list and Core Data.
 Persistent Storage: Paintings are stored using Core Data, ensuring data is saved between app launches.
 Project Structure
+
+
 
 ViewController.swift
 Manages the main view with the list of paintings.
